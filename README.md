@@ -1,17 +1,4 @@
-from pathlib import Path
-
-
 # 🔐 Penetration Testing Project
-
-## 🧑‍💻 Authors
-**Jorge Gonzales**  
-**Taszid Chowdhury**
-
-**Course:** Information Assurance  
-**Professor:** Aakash  
-**Semester:** Spring  
-
----
 
 ## 📋 Project Overview
 
