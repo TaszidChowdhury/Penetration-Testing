@@ -1,6 +1,6 @@
 from pathlib import Path
 
-readme_content = """
+
 # 🔐 Penetration Testing Project
 
 ## 🧑‍💻 Authors
